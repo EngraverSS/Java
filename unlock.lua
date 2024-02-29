@@ -1,4 +1,4 @@
--- -- 锁的key
+aa-- -- 锁的key
 -- local key = KEYS[1]
 -- -- 当前线程标识
 -- local threadId = ARGV[1]
